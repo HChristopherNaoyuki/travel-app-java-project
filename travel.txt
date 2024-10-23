@@ -1,0 +1,20 @@
+Destination 1: Cape Town
+Destination 2: Durban
+Travel By: Airplane
+****************************
+
+Destination 1: Cape Town
+Destination 2: Durban
+Travel By: Train
+****************************
+
+Destination 1: Port Elizabeth
+Destination 2: Durban
+Travel By: Train
+****************************
+
+Destination 1: Port Elizabeth
+Destination 2: Durban
+Travel By: Airplane
+****************************
+
